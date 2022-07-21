@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /projects/
+title: Projects by Category
 ---
 
 
