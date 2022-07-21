@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Some articles are just so short that we've to make the footer stick
-categories: Miscellaneous
+title: Song Demos
+categories: [music]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I do a lot of writing lyrics and not a lot of recording songs. Fun-a-day is an amazing project that inspires many to create daily in Januaries. I participated by recording some songs in 2019. If you enjoy wordplay and honesty, and don?t mind a stripped-down/imperfect recording, well ? Here?s My Soundcloud.
