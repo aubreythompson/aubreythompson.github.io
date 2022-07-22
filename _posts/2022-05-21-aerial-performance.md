@@ -10,4 +10,4 @@ I was delighted when the owners were enthusiastically supportive of my idea to u
 
 There is a very distant video on ICCA's facebook page. Luckily there are also some pretty great photos thanks to @kacie_456, @tackle_pachaskle, and @circus.dragon.
 
-[images/IMG_2485.jpg]
+![](images/IMG_2485.jpg)
